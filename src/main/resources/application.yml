@@ -1,0 +1,9 @@
+aws:
+  region: us-east-1
+  bucketName: bucket-example-hugo
+  key: AKIAY77URIYCSELQGMP3
+  secret: RcpQgkbfH3R5ebbuHa5p/oZIOZuEkXSrDuFnRIlE
+
+file:
+  path: in
+  filename: upload-test-s3.txt
